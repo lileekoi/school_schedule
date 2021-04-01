@@ -1,6 +1,7 @@
 from school_schedule.student import Student
 from school_schedule.classroom import Classroom
 
+
 # first instance
 quinn = Student(
                 "Quinn", 
